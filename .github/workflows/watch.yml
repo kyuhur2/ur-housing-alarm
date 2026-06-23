@@ -1,0 +1,58 @@
+name: Watch UR vacancies
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7,22,37,52 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+
+    env:
+      BASE_URL: ${{ vars.BASE_URL }}
+      SEARCH_URL: ${{ vars.SEARCH_URL }}
+      NOTIFY_EMAIL: ${{ vars.NOTIFY_EMAIL }}
+      SMTP_HOST: ${{ vars.SMTP_HOST }}
+      SMTP_PORT: ${{ vars.SMTP_PORT }}
+      SEND_INITIAL: ${{ vars.SEND_INITIAL }}
+      HEADLESS: ${{ vars.HEADLESS }}
+      STATE_FILE: ${{ vars.STATE_FILE }}
+
+      SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Playwright Chromium
+        run: playwright install --with-deps chromium
+
+      - name: Check UR vacancies
+        run: python watcher.py
+
+      - name: Commit updated vacancy state
+        run: |
+          if git diff --quiet -- data/vacancies.txt; then
+            echo "Vacancy state did not change."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/vacancies.txt
+          git commit -m "Update UR vacancy snapshot"
+          git push
