@@ -1,0 +1,2 @@
+# UR vacancy watcher state
+# The first successful run replaces this file with the current vacancy snapshot.
