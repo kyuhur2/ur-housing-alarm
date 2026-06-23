@@ -16,10 +16,9 @@ from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
 from playwright.sync_api import sync_playwright
 
 load_dotenv()
-base_url = os.getenv("BASE_URL")
-property_re = os.getenv("PROPERTY_RE")
-room_hint_re = os.getenv("ROOM_HINT_RE")
-
+BASE_URL = os.getenv("BASE_URL", "https://www.ur-net.go.jp")
+PROPERTY_RE = re.compile(r"/chintai/kanto/kanagawa/\d+_\d+\.html(?:$|[?#])")
+ROOM_HINT_RE = re.compile(r"(号室|円|LDK|DK|1R|1K|2K|3K|4K|㎡|m²)", re.IGNORECASE)
 
 @dataclass(frozen=True, order=True)
 class Vacancy:
@@ -31,7 +30,7 @@ class Vacancy:
         return f"{self.key}\t{self.title}\t{self.url}"
 
 
-def canonical_url(raw_url: str, base: str = base_url) -> str:
+def canonical_url(raw_url: str, base: str = BASE_URL) -> str:
     absolute = urljoin(base, raw_url)
     parts = urlsplit(absolute)
     return urlunsplit((parts.scheme, parts.netloc, parts.path, parts.query, ""))
@@ -66,7 +65,7 @@ def parse_vacancies(html: str, page_url: str) -> set[Vacancy]:
             if node is None:
                 break
             candidate = clean_text(node.get_text(" ", strip=True))
-            if room_hint_re.search(candidate) and len(candidate) <= 600:
+            if ROOM_HINT_RE.search(candidate) and len(candidate) <= 600:
                 text = candidate
                 break
             node = node.parent
@@ -85,7 +84,7 @@ def parse_vacancies(html: str, page_url: str) -> set[Vacancy]:
     # Fallback: result-page property cards. This still detects a newly listed building.
     for anchor in soup.find_all("a", href=True):
         url = canonical_url(anchor["href"], page_url)
-        if not property_re.search(url):
+        if not PROPERTY_RE.search(url):
             continue
         node = anchor
         text = ""
@@ -95,7 +94,7 @@ def parse_vacancies(html: str, page_url: str) -> set[Vacancy]:
             candidate = clean_text(node.get_text(" ", strip=True))
             if 2 <= len(candidate) <= 500:
                 text = candidate
-            if room_hint_re.search(candidate):
+            if ROOM_HINT_RE.search(candidate):
                 text = candidate
                 break
             node = node.parent
