@@ -1,68 +1,58 @@
 name: Watch UR vacancies
 
 on:
-  schedule:
-    # Every 15 minutes. GitHub cron uses UTC; the minute offsets avoid :00 congestion.
-    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "7,22,37,52 * * * *"
 
 permissions:
   contents: write
 
-concurrency:
-  group: ur-vacancy-watcher
-  cancel-in-progress: false
-
 jobs:
   watch:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+
     env:
+      BASE_URL: ${{ vars.BASE_URL }}
       SEARCH_URL: ${{ vars.SEARCH_URL }}
-      NOTIFY_EMAIL: kyuhur2@gmail.com
-      SMTP_HOST: smtp.gmail.com
-      SMTP_PORT: "465"
+      NOTIFY_EMAIL: ${{ vars.NOTIFY_EMAIL }}
+      SMTP_HOST: ${{ vars.SMTP_HOST }}
+      SMTP_PORT: ${{ vars.SMTP_PORT }}
+      SEND_INITIAL: ${{ vars.SEND_INITIAL }}
+      HEADLESS: ${{ vars.HEADLESS }}
+      STATE_FILE: ${{ vars.STATE_FILE }}
+
       SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
       SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-      SEND_INITIAL: "false"
-      HEADLESS: "true"
-      STATE_FILE: data/vacancies.txt
 
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - name: Check out repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: pip
 
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-          python -m playwright install --with-deps chromium
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
 
-      - name: Check vacancies
-        run: python -m src.watcher
+      - name: Install Playwright Chromium
+        run: playwright install --with-deps chromium
 
-      - name: Commit changed snapshot
+      - name: Check UR vacancies
+        run: python watcher.py
+
+      - name: Commit updated vacancy state
         run: |
           if git diff --quiet -- data/vacancies.txt; then
-            echo "No snapshot change."
+            echo "Vacancy state did not change."
             exit 0
           fi
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add data/vacancies.txt
           git commit -m "Update UR vacancy snapshot"
           git push
-
-      - name: Upload debug page on failure
-        if: failure()
-        uses: actions/upload-artifact@v4
-        with:
-          name: ur-watcher-debug
-          path: debug/
-          if-no-files-found: ignore
-          retention-days: 7
