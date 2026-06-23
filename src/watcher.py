@@ -36,8 +36,8 @@ def canonical_url(raw_url: str, base: str = BASE_URL) -> str:
     return urlunsplit((parts.scheme, parts.netloc, parts.path, parts.query, ""))
 
 
-def make_key(url: str, title: str) -> str:
-    return hashlib.sha256(f"{url}\n{title}".encode("utf-8")).hexdigest()[:16]
+def make_key(url: str) -> str:
+    return hashlib.sha256(url.encode("utf-8")).hexdigest()[:16]
 
 
 def clean_text(value: str) -> str:
@@ -168,7 +168,6 @@ def send_email(new_items: set[Vacancy], search_url: str) -> None:
 
 
 def main() -> int:
-    load_dotenv()
     search_url = os.environ.get("SEARCH_URL", "").strip()
     if not search_url:
         print("SEARCH_URL is required", file=sys.stderr)
