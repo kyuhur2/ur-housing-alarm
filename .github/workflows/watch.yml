@@ -41,7 +41,7 @@ jobs:
         run: playwright install --with-deps chromium
 
       - name: Check UR vacancies
-        run: python watcher.py
+        run: python src/watcher.py
 
       - name: Commit updated vacancy state
         run: |
