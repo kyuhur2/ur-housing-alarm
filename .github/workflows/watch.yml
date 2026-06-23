@@ -1,0 +1,68 @@
+name: Watch UR vacancies
+
+on:
+  schedule:
+    # Every 15 minutes. GitHub cron uses UTC; the minute offsets avoid :00 congestion.
+    - cron: "7,22,37,52 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ur-vacancy-watcher
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      SEARCH_URL: ${{ vars.SEARCH_URL }}
+      NOTIFY_EMAIL: kyuhur2@gmail.com
+      SMTP_HOST: smtp.gmail.com
+      SMTP_PORT: "465"
+      SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+      SEND_INITIAL: "false"
+      HEADLESS: "true"
+      STATE_FILE: data/vacancies.txt
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Check vacancies
+        run: python -m src.watcher
+
+      - name: Commit changed snapshot
+        run: |
+          if git diff --quiet -- data/vacancies.txt; then
+            echo "No snapshot change."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/vacancies.txt
+          git commit -m "Update UR vacancy snapshot"
+          git push
+
+      - name: Upload debug page on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ur-watcher-debug
+          path: debug/
+          if-no-files-found: ignore
+          retention-days: 7
