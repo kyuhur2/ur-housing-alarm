@@ -75,7 +75,7 @@ def parse_vacancies(html: str, page_url: str) -> set[Vacancy]:
         has_room_number = bool(re.search(r"\d+号室", text))
         if (looks_like_room or has_room_number) and text:
             title = text[:300]
-            key = make_key(url, title)
+            key = make_key(url)
             found[key] = Vacancy(key, title, url)
 
     if found:
@@ -99,7 +99,7 @@ def parse_vacancies(html: str, page_url: str) -> set[Vacancy]:
                 break
             node = node.parent
         title = text or clean_text(anchor.get_text(" ", strip=True)) or url.rsplit("/", 1)[-1]
-        key = make_key(url, title)
+        key = make_key(url)
         found[key] = Vacancy(key, title[:300], url)
 
     return set(found.values())
