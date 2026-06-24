@@ -1,12 +1,10 @@
 # key	title	url
-1c1c2d3a7634d4a8	1601号室 202,000円 (17,600円) 1K / 33㎡ 16階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4270_room.html?JKSS=000001601
-2d45c617067ce135	横浜ヴェールタワー お気に入り 横浜市営地下鉄ブルーライン「横浜」駅6番出口 徒歩5分 JR京浜東北線ほか「横浜」駅 徒歩8分 ※住棟別の所要時間は こちら からご確認ください。 横浜市西区南幸二丁目16番12 空室状況 4 建物情報・お問い合わせ先 階 最高22階建 建物種別 鉄筋コンクリート造地上22階・地下1階建 この物件のお問い合わせ先 UR横浜営業センター 敷金 2か月 礼金・仲介手数料・更新料・保証人 ナシ 間取図 部屋名 家賃(共益費) 間取り / 床面積 階数 1507号室 186,000円 (17,600円) 1DK / 33㎡ 15階 お気に入り 部屋詳細 803号室 19	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4270.html
-37ead3e8cdee039a	2105号室 298,000円 (17,600円) 1LDK / 53㎡ 21階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4270_room.html?JKSS=000002105
-4b05bfd7e6d77ea8	1507号室 186,000円 (17,600円) 1DK / 33㎡ 15階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4270_room.html?JKSS=000001507
-6496cd9c2b597f1d	9号棟 604号室 122,400円 (4,400円) 1LDK / 48㎡ 6階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3290_room.html?JKSS=000090604
-78253451c7e9aede	間取図 部屋名 家賃(共益費) 間取り / 床面積 階数 1507号室 186,000円 (17,600円) 1DK / 33㎡ 15階 お気に入り 部屋詳細 803号室 192,000円 (17,600円) 1LDK / 40㎡ 8階 お気に入り 部屋詳細 1601号室 202,000円 (17,600円) 1K / 33㎡ 16階 お気に入り 部屋詳細 2105号室 298,000円 (17,600円) 1LDK / 53㎡ 21階 お気に入り 部屋詳細 本物件は、順次、募集を行っておりますが、 指定条件ではすぐにご案内できるお部屋がございません。 最新の状況の確認などのお部屋探しのお手伝	https://www.ur-net.go.jp/chintai/kanto/kanagawa/result/?line=13600&line_station=13600_3146&line_station=13600_3180&line_station=13600_2926&line_station=13600_2564&line_station=13600_3260&rent_low=&rent_high=&walk=&floorspace_low=&floorspace_high=&years=&todofuken=kanagawa
-8100b46c1f0ad8a9	803号室 192,000円 (17,600円) 1LDK / 40㎡ 8階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4270_room.html?JKSS=000000803
-846982d511f934c5	2号棟 307号室 143,200円 (4,400円) 2LDK / 64㎡ 3階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3290_room.html?JKSS=000020307
-865b18dffd57d475	5-6号棟 405号室 75,800円 (5,200円) 2LDK / 53㎡ 4階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450_room.html?JKSS=000506405
-c74fa3145399eaec	2-4号棟 403号室 79,500円 (5,200円) 2LDK / 50㎡ 4階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450_room.html?JKSS=000204403
+1c1c2d3a7634d4a8	1601号室 202,000円 (17,600円) 1K / 33㎡ 16階 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4270_room.html?JKSS=000001601
+2d45c617067ce135	横浜ヴェールタワー 横浜市営地下鉄ブルーライン「横浜」駅6番出口 徒歩5分 JR京浜東北線ほか「横浜」駅 徒歩8分 ※住棟別の所要時間は こちら からご確認ください。 横浜市西区南幸二丁目16番12 空室状況 4 建物情報・お問い合わせ先 階 最高22階建 建物種別 鉄筋コンクリート造地上22階・地下1階建 この物件のお問い合わせ先 UR横浜営業センター 敷金 2か月 礼金・仲介手数料・更新料・保証人 ナシ 間取図 部屋名 家賃(共益費) 間取り / 床面積 階数 1507号室 186,000円 (17,600円) 1DK / 33㎡ 15階 部屋詳細 803号室 192,000円 (17,6	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4270.html
+37ead3e8cdee039a	2105号室 298,000円 (17,600円) 1LDK / 53㎡ 21階 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4270_room.html?JKSS=000002105
+4b05bfd7e6d77ea8	1507号室 186,000円 (17,600円) 1DK / 33㎡ 15階 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4270_room.html?JKSS=000001507
+6496cd9c2b597f1d	9号棟 604号室 122,400円 (4,400円) 1LDK / 48㎡ 6階 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3290_room.html?JKSS=000090604
+78253451c7e9aede	間取図 部屋名 家賃(共益費) 間取り / 床面積 階数 1507号室 186,000円 (17,600円) 1DK / 33㎡ 15階 部屋詳細 803号室 192,000円 (17,600円) 1LDK / 40㎡ 8階 部屋詳細 1601号室 202,000円 (17,600円) 1K / 33㎡ 16階 部屋詳細 2105号室 298,000円 (17,600円) 1LDK / 53㎡ 21階 部屋詳細 本物件は、順次、募集を行っておりますが、 指定条件ではすぐにご案内できるお部屋がございません。 最新の状況の確認などのお部屋探しのお手伝いをいたしますので、 下記店舗にお問い合わせくだ	https://www.ur-net.go.jp/chintai/kanto/kanagawa/result/?line=13600&line_station=13600_3146&line_station=13600_3180&line_station=13600_2926&line_station=13600_2564&line_station=13600_3260&rent_low=&rent_high=&walk=&floorspace_low=&floorspace_high=&years=&todofuken=kanagawa
+8100b46c1f0ad8a9	803号室 192,000円 (17,600円) 1LDK / 40㎡ 8階 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4270_room.html?JKSS=000000803
+846982d511f934c5	2号棟 307号室 143,200円 (4,400円) 2LDK / 64㎡ 3階 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3290_room.html?JKSS=000020307
 e43b63228c26d8c9	コンフォール篠原 163,200円 2LDK 2号棟 201号室	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4130_room.html?JKSS=000020201
