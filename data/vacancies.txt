@@ -6,8 +6,7 @@
 842f5366791e3bec	5号棟 709号室 167,100円 (4,400円) 3LDK / 72㎡ 7階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3290_room.html?JKSS=000050709
 865b18dffd57d475	5-6号棟 405号室 75,800円 (5,200円) 2LDK / 53㎡ 4階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450_room.html?JKSS=000506405
 badae2704adb8e21	5-1号棟 401号室 65,500円 (5,200円) 1LDK / 41㎡ 4階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450_room.html?JKSS=000501401
-d44da7b594412573	1-7号棟 101号室 79,500円 (5,200円) 3DK / 50㎡ 1階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450_room.html?JKSS=000107101
 dfb0047cdf40a4d2	1号棟 101号室 158,600円 (4,400円) 3LDK / 71㎡ 1階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3290_room.html?JKSS=000010101
 ee3695d8467f0a47	2001号室 211,000円 (17,600円) 1K / 33㎡ 20階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4270_room.html?JKSS=000002001
 ef7aa224a041b69e	1707号室 191,000円 (17,600円) 1DK / 33㎡ 17階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4270_room.html?JKSS=000001707
-f020394025e5f497	4-8号棟 406号室 83,200円 (5,200円) 2LDK / 50㎡ 4階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450_room.html?JKSS=000408406
+f71e54ef8158aa56	7-5号棟 301号室 74,900円 (5,200円) 2DK / 45㎡ 3階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450_room.html?JKSS=000705301
