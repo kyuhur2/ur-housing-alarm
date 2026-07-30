@@ -1,8 +1,3 @@
 # key	title	url
-0a29a335919908c5	2-3号棟 405号室 割引適用前家賃： 78,500円 家賃についてはお問い合わせください (5,200円) 3DK / 53㎡ 4階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450_room.html?JKSS=000203405
-144502b6fb81bfc4	7-5号棟 401号室 69,200円 (5,200円) 2DK / 45㎡ 4階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450_room.html?JKSS=000705401
-6496cd9c2b597f1d	9号棟 604号室 122,400円 (4,400円) 1LDK / 48㎡ 6階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3290_room.html?JKSS=000090604
-80d80164400c2151	12号棟 703号室 156,400円 (4,400円) 2LDK / 65㎡ 7階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3290_room.html?JKSS=000120703
-8ddfa5dfd3209bba	12号棟 307号室 128,000円 (4,400円) 1LDK / 51㎡ 3階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3290_room.html?JKSS=000120307
-db44bc660be343cf	4-7号棟 401号室 割引適用前家賃： 75,700円 家賃についてはお問い合わせください (5,200円) 2LDK / 50㎡ 4階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450_room.html?JKSS=000407401
-eee200c871039bd1	12号棟 103号室 135,200円 (4,400円) 2LDK / 65㎡ 1階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3290_room.html?JKSS=000120103
+6d5fe548fe192a6d	4-9号棟 502号室 66,700円 (5,200円) 2DK / 41㎡ 5階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450_room.html?JKSS=000409502
+78253451c7e9aede	間取図 部屋名 家賃(共益費) 間取り / 床面積 階数 4-9号棟 502号室 66,700円 (5,200円) 2DK / 41㎡ 5階 お気に入り 部屋詳細 ？ リノベーションしたお部屋とは？ 現代のライフスタイルに合わせたお部屋の改装や快適性にこだわった設備の改修などのリノベーションを行ったお部屋です。リノベーションの実施年月・内容はお部屋によって異なります。詳細は部屋情報の備考欄をご確認ください。 更に詳しく知りたい方は こちら ？ くらしつながるサポーターとは？ 高齢者の方が安心して暮らし続けられるよう、各種相談対応、交流促進のためのイベントや定期的な見守り等を実施しています。 更	https://www.ur-net.go.jp/chintai/kanto/kanagawa/result/?line=13600&line_station=13600_3146&line_station=13600_3180&line_station=13600_2926&line_station=13600_2564&line_station=13600_3260&rent_low=&rent_high=&walk=&floorspace_low=&floorspace_high=&years=&todofuken=kanagawa
