@@ -1,14 +1,20 @@
 # key	title	url
 01e06307d16bbca4	シティコート元住吉 お気に入り 東急東横線「元住吉」駅 徒歩17～18分 東急東横線「日吉」駅 徒歩18分 JR南武線「平間」駅 徒歩21分 ※住棟別の所要時間は こちら からご確認ください。 川崎市中原区木月4-49-1ほか 空室状況 1 建物情報・お問い合わせ先 階 最高5階建 建物種別 鉄筋コンクリート造 この物件のお問い合わせ先 UR賃貸ショップ日吉 敷金 2か月 礼金・仲介手数料・更新料・保証人 ナシ 間取図 部屋名 家賃(共益費) 間取り / 床面積 階数 1号棟 220号室 165,100円 (2,300円) 3LDK / 72㎡ 2階 お気に入り 部屋詳細 本物件は、順次、募集	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3410.html
+090fe8bd1713892d	6-7号棟 201号室 69,200円 (5,200円) 1LDK / 41㎡ 2階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450_room.html?JKSS=000607201
 0a29a335919908c5	2-3号棟 405号室 割引適用前家賃： 79,300円 家賃についてはお問い合わせください (5,200円) 3DK / 53㎡ 4階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450_room.html?JKSS=000203405
 1bf51d503e697274	10号棟 701号室 200,000円 (5,300円) 3LDK / 79㎡ 7階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4050_room.html?JKSS=000100701
 3508af52bacd8c95	2006号室 259,500円 (17,600円) 1LDK / 48㎡ 20階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4270_room.html?JKSS=000002006
 3a3d2c5b5b687dcf	コンフォール西寺尾 177,300円 3LDK 5号棟 410号室	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3090_room.html?JKSS=000050410
 3bb92040a82c4af6	611号室 176,000円 (17,600円) 2DK / 41㎡ 6階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4270_room.html?JKSS=000000611
 417e2a5f1dad93ae	2101号室 377,600円 (17,600円) 2LDK / 82㎡ 21階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4270_room.html?JKSS=000002101
+42020104a01d89de	5号棟 808号室 136,700円 (5,300円) 1LDK / 50㎡ 8階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4050_room.html?JKSS=000050808
+4795cca92b3d1d6c	中目黒アトラスタワー 380,500円 1LDK 2514号室	https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7090_room.html?JKSS=000002514
+62e35fd32d5be0c5	10号棟 513号室 156,000円 (5,300円) 1LDK / 61㎡ 5階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4050_room.html?JKSS=000100513
 6496cd9c2b597f1d	9号棟 604号室 126,100円 (4,400円) 1LDK / 48㎡ 6階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3290_room.html?JKSS=000090604
-78253451c7e9aede	間取図 部屋名 家賃(共益費) 間取り / 床面積 階数 10号棟 701号室 200,000円 (5,300円) 3LDK / 79㎡ 7階 お気に入り 部屋詳細 ？ リノベーションしたお部屋とは？ 現代のライフスタイルに合わせたお部屋の改装や快適性にこだわった設備の改修などのリノベーションを行ったお部屋です。リノベーションの実施年月・内容はお部屋によって異なります。詳細は部屋情報の備考欄をご確認ください。 更に詳しく知りたい方は こちら ？ こどもつながるサポーターとは？ 子育て世帯が、子育てに安心と楽しさが感じられるよう、地域の子育てに役立つ情報発信や親子で参加できるイベント企画、相談対	https://www.ur-net.go.jp/chintai/kanto/kanagawa/result/?line=13600&line_station=13600_3146&line_station=13600_3180&line_station=13600_2926&line_station=13600_2564&line_station=13600_3260&rent_low=&rent_high=&walk=&floorspace_low=&floorspace_high=&years=&todofuken=kanagawa
+78253451c7e9aede	間取図 部屋名 家賃(共益費) 間取り / 床面積 階数 611号室 176,000円 (17,600円) 2DK / 41㎡ 6階 お気に入り 部屋詳細 2006号室 259,500円 (17,600円) 1LDK / 48㎡ 20階 お気に入り 部屋詳細 2101号室 377,600円 (17,600円) 2LDK / 82㎡ 21階 お気に入り 部屋詳細 ？ ヒント すくすく割とは？ 【ご入居要件あり】満18歳未満のお子様を扶養、もしくはご妊娠されている方限定 。 3年間の定期借家契約で、契約の更新が無い代わりに通常よりお家賃が抑えられます。 更に詳しく知りたい方は こちら 本物件は、順	https://www.ur-net.go.jp/chintai/kanto/kanagawa/result/?line=13600&line_station=13600_3146&line_station=13600_3180&line_station=13600_2926&line_station=13600_2564&line_station=13600_3260&rent_low=&rent_high=&walk=&floorspace_low=&floorspace_high=&years=&todofuken=kanagawa
 80d80164400c2151	12号棟 703号室 161,000円 (4,400円) 2LDK / 65㎡ 7階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3290_room.html?JKSS=000120703
+876462ced08779de	2号棟 506号室 130,000円 (5,300円) 2DK / 49㎡ 5階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_4050_room.html?JKSS=000020506
 8ddfa5dfd3209bba	12号棟 307号室 132,300円 (4,400円) 1LDK / 51㎡ 3階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3290_room.html?JKSS=000120307
 d18bfa41c048c59b	1号棟 220号室 165,100円 (2,300円) 3LDK / 72㎡ 2階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3410_room.html?JKSS=000010220
+d1d6fda67986bcfa	13号棟 707号室 153,700円 (4,400円) 2LDK / 62㎡ 7階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3290_room.html?JKSS=000130707
 db44bc660be343cf	4-7号棟 401号室 割引適用前家賃： 76,400円 家賃についてはお問い合わせください (5,200円) 2LDK / 50㎡ 4階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450_room.html?JKSS=000407401
