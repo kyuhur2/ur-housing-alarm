@@ -1,8 +1,6 @@
 # key	title	url
-0a29a335919908c5	2-3号棟 405号室 割引適用前家賃： 79,300円 家賃についてはお問い合わせください (5,200円) 3DK / 53㎡ 4階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450_room.html?JKSS=000203405
 1b46d6a48a774e0f	中目黒アトラスタワー 301,700円 1LDK 2410号室	https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7090_room.html?JKSS=000002410
 4323a21b7b848c21	コンフォール西寺尾 172,600円 4DK 3号棟 205号室	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3090_room.html?JKSS=000030205
 6496cd9c2b597f1d	9号棟 604号室 126,100円 (4,400円) 1LDK / 48㎡ 6階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3290_room.html?JKSS=000090604
 78253451c7e9aede	間取図 部屋名 家賃(共益費) 間取り / 床面積 階数 9号棟 604号室 126,100円 (4,400円) 1LDK / 48㎡ 6階 お気に入り 部屋詳細 ？ リノベーションしたお部屋とは？ 現代のライフスタイルに合わせたお部屋の改装や快適性にこだわった設備の改修などのリノベーションを行ったお部屋です。リノベーションの実施年月・内容はお部屋によって異なります。詳細は部屋情報の備考欄をご確認ください。 更に詳しく知りたい方は こちら 12号棟 307号室 132,300円 (4,400円) 1LDK / 51㎡ 3階 お気に入り 部屋詳細 本物件は、順次、募集を行っておりますが、 指定条	https://www.ur-net.go.jp/chintai/kanto/kanagawa/result/?line=13600&line_station=13600_3146&line_station=13600_3180&line_station=13600_2926&line_station=13600_2564&line_station=13600_3260&rent_low=&rent_high=&walk=&floorspace_low=&floorspace_high=&years=&todofuken=kanagawa
 8ddfa5dfd3209bba	12号棟 307号室 132,300円 (4,400円) 1LDK / 51㎡ 3階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3290_room.html?JKSS=000120307
-db44bc660be343cf	4-7号棟 401号室 割引適用前家賃： 76,400円 家賃についてはお問い合わせください (5,200円) 2LDK / 50㎡ 4階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450_room.html?JKSS=000407401
