@@ -1,7 +1,7 @@
 # key	title	url
 0a29a335919908c5	2-3号棟 405号室 割引適用前家賃： 79,300円 家賃についてはお問い合わせください (5,200円) 3DK / 53㎡ 4階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450_room.html?JKSS=000203405
 1b46d6a48a774e0f	中目黒アトラスタワー 301,700円 1LDK 2410号室	https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7090_room.html?JKSS=000002410
-3a3d2c5b5b687dcf	コンフォール西寺尾 177,300円 3LDK 5号棟 410号室	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3090_room.html?JKSS=000050410
+4323a21b7b848c21	コンフォール西寺尾 172,600円 4DK 3号棟 205号室	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3090_room.html?JKSS=000030205
 5b7fba993c53f606	307号室 68,600円 (9,600円) 1LDK / 47㎡ 3階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1540_room.html?JKSS=000000307
 6558d87184cda232	コンフォール高島台 お気に入り 東急東横線「反町」駅 徒歩8～10分 JR京浜東北・根岸線「横浜」駅 徒歩12～15分 京急本線「神奈川」駅 徒歩8～9分 ※住棟別の所要時間は こちら からご確認ください。 横浜市神奈川区高島台8-1 空室状況 1 建物情報・お問い合わせ先 階 最高5階建 建物種別 鉄筋コンクリート造 この物件のお問い合わせ先 UR賃貸ショップ横浜西口 敷金 2か月 礼金・仲介手数料・更新料・保証人 ナシ 間取図 部屋名 家賃(共益費) 間取り / 床面積 階数 2号棟 504号室 197,900円 (3,600円) 3DK / 64㎡ 5階 お気に入り 部屋詳細 ？ リノベ	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3600.html
 78253451c7e9aede	間取図 部屋名 家賃(共益費) 間取り / 床面積 階数 2号棟 504号室 197,900円 (3,600円) 3DK / 64㎡ 5階 お気に入り 部屋詳細 ？ リノベーションしたお部屋とは？ 現代のライフスタイルに合わせたお部屋の改装や快適性にこだわった設備の改修などのリノベーションを行ったお部屋です。リノベーションの実施年月・内容はお部屋によって異なります。詳細は部屋情報の備考欄をご確認ください。 更に詳しく知りたい方は こちら 本物件は、順次、募集を行っておりますが、 指定条件ではすぐにご案内できるお部屋がございません。 最新の状況の確認などのお部屋探しのお手伝いをいたしますので、 	https://www.ur-net.go.jp/chintai/kanto/kanagawa/result/?line=13600&line_station=13600_3146&line_station=13600_3180&line_station=13600_2926&line_station=13600_2564&line_station=13600_3260&rent_low=&rent_high=&walk=&floorspace_low=&floorspace_high=&years=&todofuken=kanagawa
