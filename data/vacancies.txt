@@ -1,7 +1,7 @@
 # key	title	url
 0a29a335919908c5	2-3号棟 405号室 割引適用前家賃： 79,300円 家賃についてはお問い合わせください (5,200円) 3DK / 53㎡ 4階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1450_room.html?JKSS=000203405
 1b46d6a48a774e0f	中目黒アトラスタワー 301,700円 1LDK 2410号室	https://www.ur-net.go.jp/chintai/kanto/tokyo/20_7090_room.html?JKSS=000002410
-3a3d2c5b5b687dcf	コンフォール西寺尾 177,300円 3LDK 5号棟 410号室	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3090_room.html?JKSS=000050410
+4323a21b7b848c21	コンフォール西寺尾 172,600円 4DK 3号棟 205号室	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_3090_room.html?JKSS=000030205
 5b7fba993c53f606	307号室 68,600円 (9,600円) 1LDK / 47㎡ 3階 お気に入り 部屋詳細	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1540_room.html?JKSS=000000307
 78253451c7e9aede	間取図 部屋名 家賃(共益費) 間取り / 床面積 階数 15号棟 501号室 85,400円 (2,600円) 1LDK / 45㎡ 5階 お気に入り 部屋詳細 ？ ヒント 健康寿命サポート住宅とは？ 【ご入居要件あり】 移動等に伴う転倒の防止に配慮した手すり等や浴室ヒーターの設置等の住宅改修を行った賃貸住宅です。一定以下の所得の方には、家賃の減額があります。（一部設備の設置されていない住宅や家賃減額のない住宅もあります。）また、 入居資格には年齢や所得等の制限があります 。詳細については、店舗までお問い合わせください。 更に詳しく知りたい方は こちら ？ くらしつながるサポーターとは？ 高	https://www.ur-net.go.jp/chintai/kanto/kanagawa/result/?line=13600&line_station=13600_3146&line_station=13600_3180&line_station=13600_2926&line_station=13600_2564&line_station=13600_3260&rent_low=&rent_high=&walk=&floorspace_low=&floorspace_high=&years=&todofuken=kanagawa
 8313fd6409e2cbc3	峰沢町 お気に入り 横浜市営地下鉄「三ツ沢上町」駅 徒歩5分 JR京浜東北線ほか「横浜」駅 バス10分 徒歩1分 ※住棟別の所要時間は こちら からご確認ください。 横浜市保土ケ谷区峰沢町35-1 空室状況 1 建物情報・お問い合わせ先 階 最高7階建 建物種別 鉄骨鉄筋コンクリート造 この物件のお問い合わせ先 UR賃貸ショップ横浜西口 敷金 2か月 礼金・仲介手数料・更新料・保証人 ナシ 間取図 部屋名 家賃(共益費) 間取り / 床面積 階数 307号室 68,600円 (9,600円) 1LDK / 47㎡ 3階 お気に入り 部屋詳細 ？ ヒント URライト(定期借家)とは？ 定期借家契	https://www.ur-net.go.jp/chintai/kanto/kanagawa/40_1540.html
