@@ -2,8 +2,8 @@ name: Watch UR vacancies
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "3,18,33,48 * * * *"
+  # schedule:
+  #   - cron: "3,18,33,48 * * * *"
 
 permissions:
   contents: write
