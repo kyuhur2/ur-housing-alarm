@@ -31,7 +31,7 @@ The initial run records the current inventory but does **not** email it. Set `SE
 4. Open the **Actions** tab, select **Watch UR vacancies**, and click **Run workflow** once.
 5. Check the first run. It should commit the initial `data/vacancies.txt` snapshot without sending an email.
 
-Alerts go to `kyuhur2@gmail.com`. Change `NOTIFY_EMAIL` in `.github/workflows/watch.yml` to use another address.
+Alerts go to `xxx@gmail.com`. Change `NOTIFY_EMAIL` in `.github/workflows/watch.yml` to use another address.
 
 ## Changing the search
 
